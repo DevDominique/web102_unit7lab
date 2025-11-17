@@ -1,0 +1,1 @@
+INSERT INTO "public"."Posts" ("id", "created_at", "title", "author", "description", "betCount") VALUES ('3', '2025-11-12 01:36:47.053714+00', 'Jump rope', 'Bob', 'How many jumps can you score in 30 seconds?', '0');
